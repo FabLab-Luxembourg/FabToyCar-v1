@@ -14,7 +14,7 @@ All you need to fabricate this car is:
 2. find a 4mm thick PMMA (acrylic) sheet.
 3. go to a FabLab or try to find a laser cutter in your neighborhood.
 4. execute the files and cut your FabToyCar (OSCar-v1)
-5. you need a battery holder for 2
+5. you'll need a <a href="https://www.tinkersoup.de/motoren-robotics/hobby-motor-gear/a-941/" target="_blank">DC motor</a>, wires and a 2xAA battery pack.
 
 FAB LAB LUXEMBOURG TEAM:
 Rodolfo Baïz / Tom Schmit / Max Schmit
