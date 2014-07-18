@@ -1,6 +1,6 @@
 OSCar (FabToyCar)
 ============
-<a href="http://fablablux.org/fab-toy-car/"><img class="alignnone  wp-image-1694" style="border: 0px;" title="FTC-v1" src="http://fablablux.org/wp-content/uploads/2014/07/FTC-v1-1024x1024.jpg" alt="" width="584" height="584" /></a>
+<a href="http://fablablux.org/fab-toy-car/"><img class="alignnone  wp-image-1694" style="border: 0px;" title="FTC-v1" src="http://fablablux.org/wp-content/uploads/2014/07/FTC-v1-1024x1024.jpg" alt="" width="292" height="292" /></a>
 
 The OScar (FabToyCar) is an open source project developed in the <a href="http://www.technoport.lu/fablab/" target="_blank">Technoport | FabLab Luxembourg</a>.
 
@@ -20,5 +20,6 @@ FAB LAB LUXEMBOURG TEAM:
 Rodolfo Baïz / Tom Schmit / Max Schmit
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" alt="Creative Commons License" /></a>
+
 <span>FabToyCar</span> by <a href="www.technoport.lu/fablab" rel="cc:attributionURL">Technoport | FabLab-Luxembourg</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/" rel="license">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 Based on a work at <a href="https://github.com/FabLab-Luxembourg/OSCar-v1" rel="dct:source">https://github.com/FabLab-Luxembourg/OSCar-v1</a>.
